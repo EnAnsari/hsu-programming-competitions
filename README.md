@@ -3,7 +3,9 @@
   [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/hsu-programming-competitions/blob/main/README-EN.md)
   [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/hsu-programming-competitions/blob/main/LICENSE)
   <br><br>
-این ریپوزیتوری شامل سوالات و جواب‌های مسابقات برنامه‌نویسی حکیم سبزواری است.
+این ریپوزیتوری شامل سوالات و جواب‌های مسابقات برنامه‌نویسی
+<a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a>
+است.
   <br><br>
   
   ## توضیحات تکمیلی
